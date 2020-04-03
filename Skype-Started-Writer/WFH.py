@@ -21,6 +21,6 @@ skypeLogin.contacts
 skypeChat = SkypeChats(skypeLogin)
 #print(skypeChat.recent())  --Prints recent chat to get Chat ID
 #rInfo=skypeLogin.chats["8:live:meakshaymishra"]
-rInfo=skypeLogin.chats["19:da63978635a846778f8a77cfabf63437@thread.skype"]
+rInfo=skypeLogin.chats[{Enter ID of Chat you can use print recent to get id of chat}]
 rInfo.sendMsg("Started!") #Sends Message in group
 print("Message Published!")
