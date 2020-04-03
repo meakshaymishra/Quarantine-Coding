@@ -4,7 +4,7 @@ Problem -
 Solution - 
   So, here is a very basic 20lines code that writes started for me in a random time between 9:30 and 9:50 AM. 
   
-Requirements - 
-  skpy
+Requirements - \n
+  skpy \n
   getpass
   
